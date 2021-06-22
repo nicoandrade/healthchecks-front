@@ -1,0 +1,45 @@
+{
+  "name": "healthchecks-front",
+  "version": "0.1.0",
+  "description": "Beautiful dashboard to use with Healthchecks.io.",
+  "private": false,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicoandrade/healthchecks-front.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "nextjs",
+    "healthchecks",
+    "cronjobs",
+    "crontab",
+    "checks"
+  ],
+  "author": "nicoandrade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicoandrade/healthchecks-front/issues"
+  },
+  "homepage": "https://github.com/nicoandrade/healthchecks-front#readme",
+  "dependencies": {
+    "@heroicons/react": "^1.0.1",
+    "moment": "^2.29.1",
+    "next": "11.0.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "swr": "^0.5.6"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "eslint": "7.28.0",
+    "eslint-config-next": "11.0.0",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.2"
+  }
+}
