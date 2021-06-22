@@ -9,7 +9,7 @@ An easy way to see all your checks at a glance in real time, works great on desk
 This is a [Next.js](https://nextjs.org) app, so it is recommended to deploy it on [Vercel](https://vercel.com) but you can use any host that supports Next.js.
 All you have to do is click on the **Deploy** button below and then fill the Enviroment Variables with your API key and an optional site's name.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fnext.js%2Ftree%2Fcanary%2Fexamples%2Fhello-world&env=NEXT_PUBLIC_APIKEY,NEXT_PUBLIC_NAME&envDescription=API%20Key%20from%20your%20healthchecks.io%20project&envLink=https%3A%2F%2Fgithub.com%2Fnicoandrade%2Fhealthchecks-front%23where-is-my-api-key)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fnicoandrade%2Fhealthchecks-front&env=NEXT_PUBLIC_APIKEY,NEXT_PUBLIC_NAME&envDescription=API%20Key%20from%20your%20healthchecks.io%20project&envLink=https%3A%2F%2Fgithub.com%2Fnicoandrade%2Fhealthchecks-front%23where-is-my-api-key&project-name=healthchecks-dashboard&repo-name=healthchecks-dashboard)
 
 
 ### Where is my API Key?
